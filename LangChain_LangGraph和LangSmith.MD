@@ -32,3 +32,6 @@
 进阶扩展：如果要连接公司内部的ERP系统，不用再写LangChain自定义工具，而是直接搭建一个 MCP Server，让Agent通过标准协议对接。
 
 这五个模块组合在一起，就构成了一个可观测、可控制、有记忆、有知识、易扩展的下一代智能体系统。
+
+
+视频链接：[https://www.bilibili.com/list/watchlater?oid=117037892370817&bvid=BV1AkMB6qEV1&spm_id_from=333.788.top_right_bar_window_view_later.content.click&vd_source=a8e43ca5a606e00759cb33660e3646da]
